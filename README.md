@@ -1,6 +1,6 @@
 # 📊 Business Insights from Cars Database
 
-This repository contains SQL projects focused on data-driven analysis of a business database. The goal of these projects is to extract actionable insights about customers, employees, orders, products, and sales performance using SQL queries, stored procedures, and triggers.
+This repository contains SQL projects focused on data-driven analysis of a Business database. The goal of these projects is to extract actionable insights about customers, employees, orders, products, and sales performance using SQL queries, stored procedures, and triggers.
 
 📁 Project Files
 
@@ -111,7 +111,7 @@ Employee Efficiency: Recognize high-performing sales reps; optimize workforce di
 
 Financial Growth: Leverage insights on payment & order values to refine pricing and discount strategies.
 
-🛠️ Tech Stack
+🛠️ Database
 
 SQL (MySQL)
 
