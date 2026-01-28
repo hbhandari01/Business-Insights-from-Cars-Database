@@ -27,7 +27,7 @@ Recent payment details
 
 Office Data Analysis
 
-Employee count per office
+Employees count per office
 
 Offices with <5 employees
 
@@ -45,7 +45,7 @@ Most expensive product (MSRP-based)
 
 Total sales per product line
 
-Top selling products (via stored procedure)
+Top selling products (using stored procedure)
 
 Products ordered by more than 10 customers
 
@@ -57,7 +57,7 @@ Total number of employees
 
 Employee distribution by job title
 
-Sales representatives with highest sales
+Sales representatives with the highest sales
 
 Employees exceeding office average sales
 
@@ -83,7 +83,7 @@ Database Enhancements
 
 Triggers:
 
-Auto-update customer credit limit after new order
+Auto-update customer credit limit after a new order
 
 Log product stock changes when orders are placed
 
