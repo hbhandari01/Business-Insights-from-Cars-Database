@@ -25,7 +25,7 @@ Total sales per customer
 
 Recent payment details
 
-Office Data Analysis
+Office Data Analysis:
 
 Employees count per office
 
@@ -51,7 +51,7 @@ Products ordered by more than 10 customers
 
 🔹 Project Part 2: Employee & Order Analysis (C2_S10_HimanshuBhandari_project.sql)
 
-Employee Data Analysis
+Employee Data Analysis:
 
 Total number of employees
 
