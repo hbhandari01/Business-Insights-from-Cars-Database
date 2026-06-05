@@ -37,7 +37,7 @@ Office with the highest number of employees
 
 Average credit limit of customers per office
 
-Product Data Analysis
+Product Data Analysis:
 
 Products with low stock (<10 units)
 
