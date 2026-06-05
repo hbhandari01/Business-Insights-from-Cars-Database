@@ -11,7 +11,7 @@ C2_S10_HimanshuBhandari_project.sql → Project Part 2 (Employee and Order Data 
 🗂 Project Structure
 🔹 Project Part 1: Customer, Office & Product Analysis (C2_S9_HimanshuBhandari_project.sql)
 
-Customer Data Analysis
+Customer Data Analysis:
 
 Top 10 customers by credit limit
 
