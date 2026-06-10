@@ -25,7 +25,7 @@ Total sales per customer
 
 Recent payment details
 
-Office Data Analysis:
+#### Office Data Analysis:
 
 Employees count per office
 
@@ -37,7 +37,7 @@ Office with the highest number of employees
 
 Average credit limit of customers per office
 
-Product Data Analysis:
+#### Product Data Analysis:
 
 Products with low stock (<10 units)
 
@@ -51,7 +51,7 @@ Products ordered by more than 10 customers
 
 🔹 Project Part 2: Employee & Order Analysis (C2_S10_HimanshuBhandari_project.sql)
 
-Employee Data Analysis:
+#### Employee Data Analysis:
 
 Total number of employees
 
@@ -63,7 +63,7 @@ Employees exceeding office average sales
 
 Employees without managers (top-level executives)
 
-Order Analysis:
+#### Order Analysis:
 
 Average order value per customer
 
@@ -87,7 +87,7 @@ Auto-update customer credit limit after a new order
 
 Log product stock changes when orders are placed
 
-📌 Key Insights
+### 📌 Key Insights
 
 Identified top customers by credit limit & payments
 
@@ -99,7 +99,7 @@ Discovered seasonal order trends for demand forecasting
 
 Implemented triggers for automation in credit management and inventory tracking
 
-🚀 Conclusions
+### 🚀 Conclusions
 
 Customer Strategy: Focus on high-credit and loyal customers for premium services.
 
@@ -111,7 +111,7 @@ Employee Efficiency: Recognize high-performing sales reps; optimize workforce di
 
 Financial Growth: Leverage insights on payment & order values to refine pricing and discount strategies.
 
-🛠️ Database
+### 🛠️ Database
 
 SQL (MySQL)
 
@@ -119,7 +119,7 @@ Stored Procedures & Triggers for automation
 
 Relational Database Schema: Customers, Employees, Orders, OrderDetails, Products, Offices, Payments
 
-📬 Author
+### 📬 Author
 
 Himanshu Bhandari
 Data Analyst and Data Science Enthusiast
