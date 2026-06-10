@@ -63,7 +63,7 @@ Employees exceeding office average sales
 
 Employees without managers (top-level executives)
 
-Order Analysis
+Order Analysis:
 
 Average order value per customer
 
