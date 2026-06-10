@@ -2,16 +2,16 @@
 
 This repository contains SQL projects focused on data-driven analysis of a Cars database. The goal of these projects is to extract actionable insights about customers, employees, orders, products, and sales performance using basic as well as advanced SQL queries, stored procedures, and triggers.
 
-📁 Project Files
+### 📁 Project Files
 
 C2_S9_HimanshuBhandari_project.sql → Project Part 1 (Customer, Office, and Product Data Analysis)
 
 C2_S10_HimanshuBhandari_project.sql → Project Part 2 (Employee and Order Data Analysis)
 
-🗂 Project Structure
+### 🗂 Project Structure
 🔹 Project Part 1: Customer, Office & Product Analysis (C2_S9_HimanshuBhandari_project.sql)
 
-Customer Data Analysis:
+#### Customer Data Analysis:
 
 Top 10 customers by credit limit
 
