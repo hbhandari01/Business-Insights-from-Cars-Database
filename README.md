@@ -111,7 +111,7 @@ Employee Efficiency: Recognize high-performing sales reps; optimize workforce di
 
 Financial Growth: Leverage insights on payment & order values to refine pricing and discount strategies.
 
-### 🛠️ Database
+### 🛠️ Database Used
 
 SQL (MySQL)
 
