@@ -122,4 +122,4 @@ Relational Database Schema: Customers, Employees, Orders, OrderDetails, Products
 ### 📬 Author
 
 Himanshu Bhandari
-Data Analyst and Data Science Enthusiast
+Data Analyst (Senior Analyst) and Data Science Enthusiast
